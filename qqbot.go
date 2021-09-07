@@ -16,9 +16,9 @@ import (
 	jsoniter "github.com/json-iterator/go"
 )
 
-var globalGroupId = 67279950
+//var globalGroupId = 67279950
 
-//var globalGroupId = 985271542
+var globalGroupId = 985271542
 
 var json = jsoniter.ConfigCompatibleWithStandardLibrary
 
